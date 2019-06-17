@@ -2,7 +2,7 @@
       Automated attendance system using Google Inception v3 architecture
 
 # Data preparation
-      Data for training is stored in two classes using glob library
+      Data for training is created using 'data_creator.py' and store it in two classes using glob library
 
 # Data plotting
       Data gathered is then plotted using matplotlib
